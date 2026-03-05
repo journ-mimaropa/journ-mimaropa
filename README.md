@@ -1,16 +1,58 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Personal Website</title>
+    <link rel="stylesheet" href="style.css">
+</head>
 
-<!--
-**journ-mimaropa/journ-mimaropa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<body>
 
-Here are some ideas to get you started:
+<header>
+    <h1>Your Name</h1>
+    <p>Welcome to my personal website</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <nav>
+        <a href="#about">About</a>
+        <a href="#projects">Projects</a>
+        <a href="#contact">Contact</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>
+        Hi! I'm a student who enjoys coding, learning new technologies,
+        and building projects. This website is about me and my work.
+    </p>
+</section>
+
+<section id="projects">
+    <h2>My Projects</h2>
+
+    <div class="project">
+        <h3>Project 1</h3>
+        <p>Description of your project.</p>
+    </div>
+
+    <div class="project">
+        <h3>Project 2</h3>
+        <p>Description of your project.</p>
+    </div>
+
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Your Name</p>
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>

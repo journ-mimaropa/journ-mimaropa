@@ -10,8 +10,8 @@
 <body>
 
 <header>
-    <h1>Your Name</h1>
-    <p>Welcome to my personal website</p>
+    <h1>we are the journalist of sabnahis</h1>
+    <p>Welcome to our personal website personal website</p>
 
     <nav>
         <a href="#about">About</a>
